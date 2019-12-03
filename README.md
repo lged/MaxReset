@@ -10,5 +10,4 @@
 ### 原理
 将 3dsMax 的配置文件删除，重启 Max 后便会自动生成默认的配置文件
 
-
-渲梦工厂生产 http://hunnor.com/
+![QQ截图20191203092201](https://user-images.githubusercontent.com/19682422/70013101-797f4500-15b1-11ea-88bb-22a1353705aa.png)
